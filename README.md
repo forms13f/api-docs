@@ -1,4 +1,4 @@
-## App Description
+## Forms13f.com REST API
 
 This API provides access to indexed data from the EDGAR database, specifically focusing on Form 13F filings.
 
