@@ -9,10 +9,10 @@ This project offers an API to access this data using either REST or a Python SDK
 ### Resources
 
 - [Main Project Page](https://forms13f.com)
-- [Latest Forms Filed](https://forms13f.com/pages/latest.html)
-- [Most Popular Funds](https://forms13f.com/pages/popular.html)
 - [Python SDK](https://github.com/forms13f/python-sdk)
 - [Jupyter Notebooks](https://github.com/forms13f/python-sdk)
+- [Latest Forms Filed](https://forms13f.com/pages/latest.html)
+- [Most Popular Funds](https://forms13f.com/pages/popular.html)
 
 ### Contact
 
